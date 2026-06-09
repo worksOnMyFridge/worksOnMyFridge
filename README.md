@@ -1,4 +1,4 @@
-## 🕹️ Contribution Arcade
+## 🕹️ Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/worksOnMyFridge/worksOnMyFridge/output/pacman-contribution-graph-dark.svg">
