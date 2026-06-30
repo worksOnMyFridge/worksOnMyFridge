@@ -1,9 +1,9 @@
-## 🕹️ Pac-Man
+## 🐍 Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/worksOnMyFridge/worksOnMyFridge/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/worksOnMyFridge/worksOnMyFridge/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/worksOnMyFridge/worksOnMyFridge/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/worksOnMyFridge/worksOnMyFridge/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/worksOnMyFridge/worksOnMyFridge/output/github-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/worksOnMyFridge/worksOnMyFridge/output/github-snake.svg">
 </picture>
 
 ## 💣 Bomberman
